@@ -47,7 +47,7 @@ Backend Screenshot
 
 ## React JS [Front End]
 
-Change the Backapi API UTL at .env file
+Change the Backapi API URL at .env file
 
 ```javascript
 REACT_APP_API=http://localhost:50306/api/
