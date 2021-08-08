@@ -1,5 +1,5 @@
 # ReactJsCSharpCoreApi
-Full Stack React Js Front End connect C# Asp.Net Core Web Backend [MSSQL]
+Full Stack React Js Front End consume C# Asp.Net Core Web Backend [MSSQL]
 
 ## Donation
 
