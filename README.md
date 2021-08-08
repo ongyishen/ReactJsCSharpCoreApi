@@ -14,16 +14,16 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
 
 
 
-### Mssql Database
+## Mssql Database
 
 Create database with name **EmployeeDB** and run the **DbScripts.sql**
 
 DB Screenshot
-<img src="https://github.com/ongyishen/ReactJsCSharpCoreApi/blob/main/SampleDB.png?raw=true" />
+<img src="https://github.com/ongyishen/ReactJsCSharpCoreApi/blob/main/SampleDB.PNG?raw=true" />
 
 
 
-### C# Wep API Core [BackEnd]
+## C# Wep API Core [BackEnd]
 
 Change the database connection string at appsetting.json
 
@@ -36,7 +36,7 @@ Change the database connection string at appsetting.json
 Backend Screenshot
 <img src="https://github.com/ongyishen/ReactJsCSharpCoreApi/blob/main/SampleBackend.gif?raw=true" />
 
-### React JS [Front End]
+## React JS [Front End]
 
 Change the Backapi API UTL at .env file
 
