@@ -54,10 +54,10 @@ REACT_APP_API=http://localhost:50306/api/
 REACT_APP_PHOTOPATH=http://localhost:50306/Photos/
 ```
 
-Run 
+Run (install all dependecies)
 
 ```bash
-npm init
+npm install
 ```
 
 Start the front end
