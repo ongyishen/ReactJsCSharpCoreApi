@@ -12,6 +12,8 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
 
 
 
+------
+
 
 
 ## Mssql Database
@@ -19,7 +21,10 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
 Create database with name **EmployeeDB** and run the **DbScripts.sql**
 
 DB Screenshot
+
 <img src="https://github.com/ongyishen/ReactJsCSharpCoreApi/blob/main/SampleDB.PNG?raw=true" />
+
+------
 
 
 
@@ -35,6 +40,10 @@ Change the database connection string at appsetting.json
 
 Backend Screenshot
 <img src="https://github.com/ongyishen/ReactJsCSharpCoreApi/blob/main/SampleBackend.gif?raw=true" />
+
+------
+
+
 
 ## React JS [Front End]
 
