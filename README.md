@@ -1,5 +1,5 @@
 # ReactJsCSharpCoreApi
-React Js Front End connect C# Wep API Core Backend [MSSQL]
+Full Stack React Js Front End connect C# Asp.Net Core Web Backend [MSSQL]
 
 ## Donation
 
@@ -28,7 +28,7 @@ DB Screenshot
 
 
 
-## C# Wep API Core [BackEnd]
+## C# Asp.Net Core Web [BackEnd]
 
 Change the database connection string at appsetting.json
 
